@@ -25,7 +25,6 @@ def onderstreep(tekst=""):
     return uit
 
 def som(invoer):
-    som = 0
     for items in invoer:
         som = som + invoer[items]
         return som
