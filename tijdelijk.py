@@ -8,7 +8,7 @@ def print_aanbieding() :
     } 
 
     aanbieding = prijzen["vanille"] * 0.8
-    
+      
     reclame_tekst = f"vandaag in de aanbieding, vannille-ijs, 1 liter - slechts € {aanbieding}"
     
     reclame_tekst2 = reclame_tekst[:63]
